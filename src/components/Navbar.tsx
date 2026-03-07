@@ -39,7 +39,7 @@ export default function Navbar() {
         </div>
 
         <div className="hidden md:flex items-center gap-3">
-          <a href="https://amzn.to/3MxBrvx">
+          <a href="https://amzn.to/4lic8Le">
             <PrimaryButton className="max-sm:text-xs hidden sm:inline-block">
               Bay now
             </PrimaryButton>
@@ -66,9 +66,10 @@ export default function Navbar() {
           Sign in
         </button>
         <a href="https://amzn.to/3M9AolC">
-        <PrimaryButton onClick={() => setIsOpen(false)}>Bay now</PrimaryButton>
+          <PrimaryButton onClick={() => setIsOpen(false)}>
+            Bay now
+          </PrimaryButton>
         </a>
-        
 
         <button
           onClick={() => setIsOpen(false)}

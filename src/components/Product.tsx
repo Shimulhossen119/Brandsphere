@@ -1,9 +1,9 @@
 import amazonLogo from "../assets/amazon1.png";
 import La from "../assets/Lal.jpg";
-import Wow from "../assets/WOW1.jpg";
+import LaRochePosaLipikarAP from "../assets/Lipikar ap+max1.jpg";
 import Hand from "../assets/hand1.jpg";
 import Title from "./Title";
-import Carpe from "../assets/Carpe.jpg";
+import LaRochePosayHyaluB5Pure from "../assets/La Roche-Posay Hyalu B5 Pure.jpg";
 import Mighty from "../assets/Mighty.jpg";
 import La1 from "../assets/La1.jpg";
 
@@ -34,29 +34,28 @@ export default function Product() {
             <div className="w-full h-full sm:h-full md:h-full overflow-hidden bg-gray-100">
               <img
                 className="w-full h-full object-cover bg-white"
-                src={Wow}
-                alt="Lal"
+                src={LaRochePosaLipikarAP}
+                alt="La Roche-Posay Lipikar AP+"
               />
             </div>
 
             <div className="p-3 sm:p-4 md:p-5 flex flex-col grow">
               <p className="text-slate-600 text-xs sm:text-sm font-semibold mb-2">
-                $ 15.00
+                $ 21.00
               </p>
 
               <p className="text-slate-800 text-sm sm:text-base font-medium mb-2 line-clamp-2">
-                ✨ COLOR WOW Dream Coat Anti-Humidity Spray
+                ✨La Roche-Posay Lipikar AP+MAX Triple Repair Moisturizing Body
+                Cream
               </p>
 
               <p className="text-slate-500 text-xs sm:text-sm grow line-clamp-3 mb-4">
-                Say goodbye to frizz and hello to flawless shine 🌟! COLOR WOW
-                Dream Coat is an award-winning anti-humidity treatment that
-                smooths, protects, and delivers silky, glass-like hair for up to
-                3–4 washes. With built-in heat protection 🔥, it keeps your
-                style sleek, shiny, and humidity-proof.
+                🌿 Face & Body Lotion for Dry Skin with Shea Butter &
+                Niacinamide | Gentle Moisturizer for Very Dry, Rough & Sensitive
+                Skin
               </p>
 
-              <a href="https://amzn.to/4twNp9u" className="w-full">
+              <a href="https://amzn.to/3MYyHI3" className="w-full">
                 <button className="w-full h-11 sm:h-12 md:h-14 px-2 sm:px-3 md:px-4 py-2 border-2 border-black shadow-md bg-black hover:bg-gray-800 active:scale-95 transition-all text-white text-xs sm:text-sm md:text-base font-medium flex items-center justify-center gap-1 sm:gap-2 rounded-sm">
                   <span className="hidden sm:inline">Buy now at</span>
                   <span className="sm:hidden">Buy at</span>
@@ -67,7 +66,7 @@ export default function Product() {
                   />
                 </button>
               </a>
-              <a href="https://amzn.to/4twNp9u" className="w-full">
+              <a href="https://amzn.to/3MYyHI3" className="w-full">
                 <button className="w-full h-11 sm:h-12 md:h-14 px-2 mt-1.5 sm:px-3 md:px-4 py-2 border-2 border-black shadow-md bg-black hover:bg-gray-800 active:scale-95 transition-all text-white text-xs sm:text-sm md:text-base font-medium flex items-center justify-center gap-1 sm:gap-2 rounded-sm">
                   <span className="hidden sm:inline">Product Details</span>
                   <span className="sm:hidden">Details</span>
@@ -104,7 +103,7 @@ export default function Product() {
                 a French pharmacy brand
               </p>
 
-              <a href="https://amzn.to/4bOM0oh" className="w-full">
+              <a href="https://amzn.to/4bmkOg1" className="w-full">
                 <button className="w-full h-11 sm:h-12 md:h-14 px-2 sm:px-3 md:px-4 py-2 border-2 border-black shadow-md bg-black hover:bg-gray-800 active:scale-95 transition-all text-white text-xs sm:text-sm md:text-base font-medium flex items-center justify-center gap-1 sm:gap-2 rounded-sm">
                   <span className="hidden sm:inline">Buy now at</span>
                   <span className="sm:hidden">Buy at</span>
@@ -115,7 +114,7 @@ export default function Product() {
                   />
                 </button>
               </a>
-              <a href="https://amzn.to/4bOM0oh" className="w-full">
+              <a href="https://amzn.to/4bmkOg1" className="w-full">
                 <button className="w-full h-11 sm:h-12 md:h-14 px-2 mt-1.5 sm:px-3 md:px-4 py-2 border-2 border-black shadow-md bg-black hover:bg-gray-800 active:scale-95 transition-all text-white text-xs sm:text-sm md:text-base font-medium flex items-center justify-center gap-1 sm:gap-2 rounded-sm">
                   <span className="hidden sm:inline">Product details</span>
                   <span className="sm:hidden">Details</span>
@@ -186,14 +185,14 @@ export default function Product() {
             <div className="w-full h-full sm:h-full md:h-full overflow-hidden bg-gray-100">
               <img
                 className="w-full h-full object-cover bg-white"
-                src={Carpe}
-                alt="Carpe"
+                src={LaRochePosayHyaluB5Pure}
+                alt="La Roche-Posay Hyalu B5 Pure"
               />
             </div>
 
             <div className="p-3 sm:p-4 md:p-5 flex flex-col grow">
               <p className="text-slate-600 text-xs sm:text-sm font-semibold mb-2">
-                $ 19.00
+                $ 39.00
               </p>
 
               <p className="text-slate-800 text-sm sm:text-base font-medium mb-2 line-clamp-2">
@@ -212,7 +211,7 @@ export default function Product() {
                 cool, comfortable, and ready to conquer. ⚡
               </p>
 
-              <a href="https://amzn.to/3MZACMl" className="w-full">
+              <a href="https://amzn.to/40e2QGk" className="w-full">
                 <button className="w-full h-11 sm:h-12 md:h-14 px-2 sm:px-3 md:px-4 py-2 border-2 border-black shadow-md bg-black hover:bg-gray-800 active:scale-95 transition-all text-white text-xs sm:text-sm md:text-base font-medium flex items-center justify-center gap-1 sm:gap-2 rounded-sm">
                   <span className="hidden sm:inline">Buy now at</span>
                   <span className="sm:hidden">Buy at</span>
@@ -223,7 +222,7 @@ export default function Product() {
                   />
                 </button>
               </a>
-              <a href="https://amzn.to/3MZACMl" className="w-full">
+              <a href="https://amzn.to/40e2QGk" className="w-full">
                 <button className="w-full h-11 sm:h-12 md:h-14 px-2 mt-1.5 sm:px-3 md:px-4 py-2 border-2 border-black shadow-md bg-black hover:bg-gray-800 active:scale-95 transition-all text-white text-xs sm:text-sm md:text-base font-medium flex items-center justify-center gap-1 sm:gap-2 rounded-sm">
                   <span className="hidden sm:inline">Product details</span>
                   <span className="sm:hidden">Details</span>
@@ -326,7 +325,7 @@ export default function Product() {
                 barrier repair. 🌸
               </p>
 
-              <a href="https://amzn.to/4s40zt5" className="w-full">
+              <a href="https://amzn.to/4sryKek" className="w-full">
                 <button className="w-full h-11 sm:h-12 md:h-14 px-2 sm:px-3 md:px-4 py-2 border-2 border-black shadow-md bg-black hover:bg-gray-800 active:scale-95 transition-all text-white text-xs sm:text-sm md:text-base font-medium flex items-center justify-center gap-1 sm:gap-2 rounded-sm">
                   <span className="hidden sm:inline">Buy now at</span>
                   <span className="sm:hidden">Buy at</span>
@@ -337,7 +336,7 @@ export default function Product() {
                   />
                 </button>
               </a>
-              <a href="https://amzn.to/4s40zt5" className="w-full">
+              <a href="https://amzn.to/4sryKek" className="w-full">
                 <button className="w-full h-11 sm:h-12 md:h-14 px-2 mt-1.5 sm:px-3 md:px-4 py-2 border-2 border-black shadow-md bg-black hover:bg-gray-800 active:scale-95 transition-all text-white text-xs sm:text-sm md:text-base font-medium flex items-center justify-center gap-1 sm:gap-2 rounded-sm">
                   <span className="hidden sm:inline">Product details</span>
                   <span className="sm:hidden">Details</span>

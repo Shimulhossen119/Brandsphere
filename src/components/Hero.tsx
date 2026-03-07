@@ -31,7 +31,7 @@ export default function Hero() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
             <div className="text-left">
               <motion.a
-                href="https://prebuiltui.com/tailwind-templates?ref=pixel-forge"
+                href=""
                 className="inline-flex items-center gap-3 pl-3 pr-4 py-1.5 rounded-full bg-white/10 mb-6 justify-start"
                 initial={{ y: 60, opacity: 0 }}
                 whileInView={{ y: 0, opacity: 1 }}
@@ -112,7 +112,7 @@ export default function Hero() {
                   delay: 0.3,
                 }}
               >
-                <a href="https://amzn.to/3M9AolC" className="w-full sm:w-auto">
+                <a href="https://amzn.to/4lic8Le" className="w-full sm:w-auto">
                   <button className="w-36 lg:w-40 h-14 lg:h-15 px-2 lg:px-6 py-2 bg-white hover:bg-gray-300 active:scale-95 transition-all  max-sm:justify-center text-black text-xs lg:text-sm">
                     Bay now at{" "}
                     <img
